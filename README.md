@@ -1,4 +1,4 @@
-By One // # Oxygen Not Included Mods
+# By Ony // Oxygen Not Included Mods
 Bug tracker for mods made for game Oxygen Not Included, Steam version.
 
 All my mods: 

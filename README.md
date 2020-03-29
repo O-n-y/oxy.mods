@@ -2,7 +2,7 @@
 Bug tracker for mods made for game Oxygen Not Included, Steam version.
 
 All my mods: 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1838445101&tscn=1568753172
+https://steamcommunity.com/workshop/filedetails/?id=1868471353
 
 
 # How to report bug:

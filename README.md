@@ -17,9 +17,10 @@ Go to: https://github.com/O-n-y/oxy.mods/issues
 
 3. Write full description of issue and the way to reproduce it
 
-4. !!! **Provide mod version you have** 
-You can see it in mods list right after the mod name
-You can check file version of .dll - right click - check properties for version.
-*P.S. Make sure you do not report issue on the outdated version.*
+4. !!! **Provide mod version you have**
+   
+   You can see it in mods list right after the mod name
+   You can check file version of .dll - right click - check properties for version.
+   *P.S. Make sure you do not report issue on the outdated version.*
 
 5. Attach game save file (game should be started with any other mod enabled, to be sure issue not caused by some other mod)

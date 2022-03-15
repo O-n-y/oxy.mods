@@ -7,8 +7,8 @@ https://steamcommunity.com/workshop/filedetails/?id=1868471353
 _All my mods are for Steam only_
 
 # BEFORE reporting the bug:
-0. Make sure you have the last version, you can check your version number in the mods list and the last version of the mod - in steam page of the mod, "Change Notes" tab or in my Discord #announcements channel (https://discord.gg/n9FhwzQFAV)
-1. Clear mods cache by deleting all files inside /mods folder (game should not be running)
+0. Make sure you have the **last version**, you can check your version number in the mods list and the last version of the mod - in steam page of the mod, ***"Change Notes"*** tab or in my Discord #announcements channel (https://discord.gg/n9FhwzQFAV)
+1. Clear mods cache by **deleting all files** inside /mods folder (game should not be running)
 2. If you confirmed you have the lastest version, cleaned the mods cache and still have an issue, report the bug, following the steps listed below.
 
 

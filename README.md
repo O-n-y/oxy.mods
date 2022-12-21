@@ -1,32 +1,103 @@
-# By Ony // Oxygen Not Included Mods
-Bug tracker for mods made for game Oxygen Not Included, Steam version.
 
-All my mods: 
-https://steamcommunity.com/workshop/filedetails/?id=1868471353
+<div align = center>
 
-_All my mods are for Steam only_
+# Oxygen Not Included <br> Mods by **[Ony]**
 
-# BEFORE reporting the bug:
-0. Make sure you have the **last version**, you can check your version number in the mods list and the last version of the mod - in steam page of the mod, ***"Change Notes"*** tab or in my Discord #announcements channel (https://discord.gg/n9FhwzQFAV)
-1. Clear mods cache by **deleting all files** inside /mods folder (game should not be running)
-2. If you confirmed you have the lastest version, cleaned the mods cache and still have an issue, report the bug, following the steps listed below.
+***Bug Tracker*** *for  game Oxygen Not Included, **Steam** version mods.*
+
+<br>
+<br>
+
+[![Button Report]][Report]
+[![Button Discord]][Discord]
+[![Button Patreon]][Patreon]
+[![Button ModList]][ModList]   
 
 
-# How to report bug:
+<BR>My steam page: https://steamcommunity.com/id/oniki
 
-Go to: https://github.com/O-n-y/oxy.mods/issues
-0. OS you are using
+</div>
 
-1. Game version (you can see build number in game at the bottom)
+<br>
 
-2. Create new issue with mod label
 
-3. Write full description of issue and the way to reproduce it
+<!----------------------------------------------------------------------------->
 
-4. !!! **Provide mod version you have**
-   
-   You can see it in mods list right after the mod name
-   You can check file version of .dll - right click - check properties for version.
-   *P.S. Make sure you do not report issue on the outdated version.*
 
-5. Attach game save file (game should be started with any other mod enabled, to be sure issue not caused by some other mod)
+# Troubleshoot
+
+*Before trying to report a bug, please make sure you have tried theses steps.*
+
+<br>
+
+1.  Make sure you run the **latest version**.
+
+    *You can find your version in your mods list.*
+
+    *You can find the latest available version:*
+
+    -   On the mods steam page
+
+    -   In the `Change Notes`
+
+    -   In the `#announcements` channel on my **[Discord]**.
+
+    <br>
+
+2.  Clear the mods cache by **deleting all files** inside the `/mods` folder while the is closed.
+
+    <br>
+
+3.  If the problems still persist, make a report.
+
+<br>
+<br>
+
+# How to Report Bugs
+
+
+1.  Head over to the **[Issues]** tab.
+
+2.  Open a new issue with the following:
+
+    -   The OS you are running.
+
+    -   The games version number.
+
+        *Should be displayed at the bottom of the games screen.*
+
+    -   !!! **Provide mod version you have**
+
+        *Can be found in the modlist or by right clicking the `.dll` ➞ check properties.*
+
+        *P.S. Make sure you do not report issue on the outdated version.*
+
+    -   Add the `mod` label to your issue.
+
+    -   Describe your problem.
+
+    -   Describe how to reproduce it.
+
+3.  Attach a game save file that has only been run with the mod you are trying to report a problem for.
+
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+
+[ModList]: https://steamcommunity.com/workshop/filedetails/?id=1868471353
+[Discord]: https://discord.gg/n9FhwzQFAV
+[Patreon]: https://www.patreon.com/ony_mods
+[Ony]: https://steamcommunity.com/id/oniki
+
+[Report]: Documentation/Report.md
+[Issues]: https://github.com/O-n-y/oxy.mods/issues
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Report]: https://img.shields.io/badge/Report_A_Bug-609926?style=for-the-badge&logoColor=white&logo=Hackaday
+[Button ModList]: https://img.shields.io/badge/ModList-1A9FFF?style=for-the-badge&logoColor=white&logo=Steam
+[Button Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
+[Button Patreon]: https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
+

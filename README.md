@@ -72,7 +72,7 @@
 
         *P.S. Make sure you do not report issue on the outdated version.*
 
-    -   Add the `mod` label to your issue.
+    -   Add the `[mod] X_X_X` as first part of the title of your issue. Example: `[DGSM] 1.2.3`
 
     -   Describe your problem.
 

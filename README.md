@@ -24,7 +24,7 @@
 <!----------------------------------------------------------------------------->
 
 
-# Troubleshoot
+# Troubleshooting
 
 *Before trying to report a bug, please make sure you have tried theses steps.*
 

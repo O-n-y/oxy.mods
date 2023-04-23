@@ -43,12 +43,15 @@
     -   In the `#announcements` channel on my **[Discord]**.
 
     <br>
-
-2.  Clear the mods cache by **deleting all files** inside the `/mods` folder while the is closed.
+    
+2.  Disable all other mods (you can leave other my mods enabled)
+    <br>
+    
+3.  Clear the mods cache by **deleting all files** inside the `/mods` folder while the is closed.
 
     <br>
 
-3.  If the problems still persist, make a report.
+4.  If the problems still persist, make a report.
 
 <br>
 <br>

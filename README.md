@@ -11,6 +11,7 @@
 [![Button Report]][Report]
 [![Button Discord]][Discord]
 [![Button Patreon]][Patreon]
+[![Button Boosty]][Boosty]
 [![Button ModList]][ModList]   
 
 
@@ -92,6 +93,7 @@
 [ModList]: https://steamcommunity.com/workshop/filedetails/?id=1868471353
 [Discord]: https://discord.gg/n9FhwzQFAV
 [Patreon]: https://www.patreon.com/ony_mods
+[Boosty]: https://boosty.to/ony_mods
 [Ony]: https://steamcommunity.com/id/oniki
 
 [Report]: Documentation/Report.md
@@ -103,4 +105,6 @@
 [Button ModList]: https://img.shields.io/badge/ModList-1A9FFF?style=for-the-badge&logoColor=white&logo=Steam
 [Button Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
 [Button Patreon]: https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
+[Button Boosty]: https://img.shields.io/badge/boosty-fc7703?style=for-the-badge&logo=boosty&logoColor=white
+
 

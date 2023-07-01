@@ -45,7 +45,7 @@
 
     <br>
     
-2.  Disable all other mods (you can leave other my mods enabled)
+2.  <ins>Disable all other mods</ins> (you can leave other my mods enabled)
     <br>
     
 3.  Clear the mods cache by **deleting all files** inside the `/mods` folder while the is closed.

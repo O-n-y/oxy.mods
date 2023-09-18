@@ -27,7 +27,7 @@
 
 # Troubleshooting
 
-*Before trying to report a bug, please make sure you have tried theses steps.*
+*Before trying to report a bug, please make sure you have tried those steps.*
 
 <br>
 
@@ -96,7 +96,7 @@
 [Boosty]: https://boosty.to/ony_mods
 [Ony]: https://steamcommunity.com/id/oniki
 
-[Report]: Documentation/Report.md
+[Report]: https://github.com/O-n-y/oxy.mods/issues/new
 [Issues]: https://github.com/O-n-y/oxy.mods/issues
 
 <!---------------------------------[ Buttons ]--------------------------------->

@@ -20,7 +20,7 @@
 </div>
 
 <br>
-
+<p align=center><img src="https://i.imgur.com/3pHaHMl.png"  title="Support Vanialla game and DLC"></p>
 
 <!----------------------------------------------------------------------------->
 

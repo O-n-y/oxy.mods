@@ -33,7 +33,8 @@
 
 1.  Make sure you run the **latest version**.
 
-    *You can find your version in your mods list.*
+    *You can find your version in your mods list if using Mod Manager and issue with other mod.*
+    In other case: check the .dll version number (right-click -> Properties -> Details), .dll files of the mods are located inside the mod folder, for example: \mods\Steam\1843965353\ (where 1843965353 - mod id from steam)
 
     *You can find the latest available version:*
 
@@ -45,14 +46,14 @@
 
     <br>
     
-2.  <ins>Disable all other mods</ins> (you can leave other my mods enabled)
+3.  <ins>Disable all other mods</ins> (you can leave other my mods enabled)
     <br>
     
-3.  Clear the mods cache by **deleting all files** inside the `/mods` folder while the is closed.
+4.  Clear the mods cache by **deleting all files** inside the `/mods` folder while the is closed.
 
     <br>
 
-4.  If the problems still persist, make a report.
+5.  If the problems still persist, make a report.
 
 <br>
 <br>

@@ -33,8 +33,9 @@
 
 1.  Make sure you run the **latest version**.
 
-    *You can find your version in your mods list if using Mod Manager and issue with other mod.*
-    In other case: check the .dll version number (right-click -> Properties -> Details), .dll files of the mods are located inside the mod folder, for example: \mods\Steam\1843965353\ (where 1843965353 - mod id from steam)
+    - *You can find your version in your mods list if you are using **Mod Manager** and issue with other mod.*
+    
+    - In other case: check the **.dll** version number (right-click -> Properties -> Details), .dll files of the mods are located inside the mod folder, for example: \mods\Steam\1843965353\ (where 1843965353 - mod id from steam)
 
     *You can find the latest available version:*
 

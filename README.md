@@ -30,7 +30,7 @@
 *Before trying to report a bug, please make sure you have tried those steps.*
 
 
-0.  If you have error like `MissingMethodException: ` - you have an outdated version of the mod (unless there just was a huge patch and there are also many reports like yours).
+0.  If you have error like `MissingMethodException: ` - you have an **outdated** version of the mod (unless there just was a huge patch and there are also many reports like yours).
 
 1.  Make sure you run the **latest version**.
 

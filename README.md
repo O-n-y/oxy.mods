@@ -11,7 +11,6 @@
 [![Button Report]][Report]
 [![Button Discord]][Discord]
 [![Button Patreon]][Patreon]
-[![Button Boosty]][Boosty]
 [![Button ModList]][ModList]   
 
 

@@ -19,7 +19,7 @@
 </div>
 
 <br>
-<p align=center><img src="https://i.imgur.com/brjaeqW.png"  title="Support Vanialla game and all DLC"></p>
+<p align=center><img src="https://raw.githubusercontent.com/O-n-y/oxy.mods/master/oxy_supporred.png"  title="Support Vanialla game and all DLC"></p>
 
 <!----------------------------------------------------------------------------->
 

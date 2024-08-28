@@ -22,7 +22,19 @@
 <p align=center><img src="https://raw.githubusercontent.com/O-n-y/oxy.mods/master/oxy_supporred.png"  title="Support Vanialla game and all DLC"></p>
 
 <!----------------------------------------------------------------------------->
+# Must Have Mods 
+before debuggings issues:
+* **MPOrganizer❤️** - Add, edit, export, import mods presets at your need! Save current mods list as preset to not loose anything. Create new preset with the mod you want to test/debug, load it. When done - load back the preset you are normally playing.
+    
+    _Steam:_ https://steamcommunity.com/sharedfiles/filedetails/?id=3284635963
+* **Mod Manager** - control over your mods, see mods version, auto-updated (even when Steam gives cached version), enable/disable all by one button, mods backups, ability to open a local mod folder (useful when mod have config in files) and much more!
 
+    _Steam:_ https://steamcommunity.com/sharedfiles/filedetails/?id=1843965353
+* **Debug console** (Windows only) - once activated it will show console window and display all information pushed to console by game or mods, including all errors they have!
+
+    _Steam:_ https://steamcommunity.com/sharedfiles/filedetails/?id=2041219184
+
+**All my mods: **https://steamcommunity.com/id/oniki/myworkshopfiles/?appid=457140
 
 # Troubleshooting
 

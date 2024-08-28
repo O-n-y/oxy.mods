@@ -34,7 +34,7 @@ before debuggings issues:
 
     _Steam:_ https://steamcommunity.com/sharedfiles/filedetails/?id=2041219184
 
-**All my mods: **https://steamcommunity.com/id/oniki/myworkshopfiles/?appid=457140
+**All my mods:** https://steamcommunity.com/id/oniki/myworkshopfiles/?appid=457140
 
 # Troubleshooting
 

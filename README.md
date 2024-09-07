@@ -58,6 +58,7 @@ before debuggings issues:
     -   In the `#announcements` channel on my **[Discord]**.
 
     <br>
+    If you found out you have an outdated version, use [ModManager] and **green button** to force update the mod.
     
 3.  <ins>Disable all other mods</ins> (you can leave other my mods enabled)
     <br>
@@ -103,7 +104,7 @@ before debuggings issues:
 
 <!----------------------------------------------------------------------------->
 
-
+[ModManager]: https://steamcommunity.com/sharedfiles/filedetails/?id=3284635963
 [ModList]: https://steamcommunity.com/workshop/filedetails/?id=1868471353
 [Discord]: https://discord.gg/n9FhwzQFAV
 [Patreon]: https://www.patreon.com/ony_mods

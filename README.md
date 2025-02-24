@@ -95,9 +95,11 @@ before debuggings issues:
 
     -   Describe your problem.
 
-    -   Describe how to reproduce it.
+    -   Have you tried disable other thirdparty mods, is issue persist in this case?
+      
+    -   Provide steps how to reproduce the issue, which action lead to it to appear?
 
-3.  Attach a game save file that has only been run with the mod you are trying to report a problem for.
+3.  Attach a game save file that has only been run with the mod you are trying to report a problem for: where it can be reproduced (save game before the issue would appear - before you taken actions which leads to it)
 
 <br>
 

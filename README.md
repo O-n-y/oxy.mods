@@ -92,6 +92,8 @@ before debuggings issues:
         *P.S. Make sure you do not report issue on the outdated version.*
 
     -   Add the `[mod] X_X_X` as first part of the title of your issue. Example: `[DGSM] 1.2.3`
+   
+    -   If a mod have **config** - **screenshot** it and attach to the issue report.
 
     -   Describe your problem.
 

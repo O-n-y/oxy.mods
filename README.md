@@ -83,6 +83,8 @@ before debuggings issues:
 
     -   The games version number.
 
+    -   Which game DLC you have ON.
+
         *Should be displayed at the bottom of the games screen.*
 
     -   !!! **Provide mod version you have** (Steam cache could return to user outdated version)

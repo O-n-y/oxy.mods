@@ -87,7 +87,7 @@ before debuggings issues:
 
         *Should be displayed at the bottom of the games screen.*
 
-    -   !!! **Provide mod version you have** (Steam cache could return to user outdated version)
+    -   !!! **Provide mod version you have with screenshot (Mod Manager or .dll info)** (Steam cache could return to user outdated version)
 
         *Can be found in the modlist or by right clicking the `.dll` ➞ check properties.*
 

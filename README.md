@@ -60,6 +60,8 @@ before debuggings issues:
     <br>
     If you found out you have an outdated version, use [ModManager] and **green button** to force update the mod.
     
+2.   Make sure the **config** folder do exist in path /mods/`mod_id`/config/config.json
+
 3.  <ins>Disable all other mods</ins> (you can leave other my mods enabled)
     <br>
     
